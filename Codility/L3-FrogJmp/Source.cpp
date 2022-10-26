@@ -16,7 +16,7 @@ int solution(int X, int Y, int D) {
 }
 
 int main() {
-	int startingPos{ 15 }; 
+	int startingPos{ 15 };
 	int objectivePos{ 120 };
 	int jumpDistance{ 20 };
 
