@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fbe6ebea-8596-4a64-8cce-70c67e416479}</ProjectGuid>
-    <RootNamespace>L2CyclicRotation</RootNamespace>
+    <ProjectGuid>{91dc1b45-4b9c-4485-a927-34b6a4f73862}</ProjectGuid>
+    <RootNamespace>L3PermMissingElem</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

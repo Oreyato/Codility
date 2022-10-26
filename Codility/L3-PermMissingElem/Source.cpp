@@ -11,11 +11,11 @@ int solution(vector<int>& A) {
 	// Handle exceptions
 	if (A.size() == 0) {
 		return 1;
-		
+
 	}
 	if (A[0] != 1) {
 		return 1;
-		
+
 	}
 
 	int val{ 1 };

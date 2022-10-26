@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4ebb67aa-e6b5-4058-83af-40af12345292}</ProjectGuid>
-    <RootNamespace>L1Iterations</RootNamespace>
+    <ProjectGuid>{98da1fd0-570f-4479-af59-72cc4575897a}</ProjectGuid>
+    <RootNamespace>L2OddOccurrencesInArray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
