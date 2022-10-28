@@ -1,13 +1,13 @@
 ### Codility
 
-BinaryGap: [here]()
+- BinaryGap: [here](https://github.com/Oreyato/Codility/blob/main/Codility/L1-BinaryGap/Source.cpp)
 
-CyclicRotation: [here]() 
-OddOccurrencesInArray: [here]()
+- CyclicRotation: [here]() 
+- OddOccurrencesInArray: [here](https://github.com/Oreyato/Codility/blob/main/Codility/L2-CyclicRotation/Source.cpp)
 
-FromJmp: [here]()
-PermMissingElem: [here]()
-TapeEquilibrium: [here]()
+- FromJmp: [here](https://github.com/Oreyato/Codility/blob/main/Codility/L3-FromJmp/Source.cpp)
+- PermMissingElem: [here](https://github.com/Oreyato/Codility/blob/main/Codility/L3-PermMissingElem/Source.cpp)
+- TapeEquilibrium: [here](https://github.com/Oreyato/Codility/blob/main/Codility/L3-TapeEquilibrium/Source.cpp)
 
 ### Cities travel
 
