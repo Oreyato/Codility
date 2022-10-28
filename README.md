@@ -12,5 +12,3 @@
 ### Cities travel (temporary)
 
 Architecture reflexions
-
-Path research algorithm in progress
